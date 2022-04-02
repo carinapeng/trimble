@@ -1,0 +1,6 @@
+Question 4:
+A. I would use grep as a command-line tool to set all null values to 0 as I read in the data. I would not read the dataset using Python because that would take unnecessary memory space.
+B. I am an early bird, so if I am asked to do these tasks at 2am, I would create functions to automate the data pre-processing and basic statistics gathering while I sleep
+
+Question 5:
+My favorite mathematician, statistician, and computer scientist is Joseph Kruskal. His work on formulation of multidimensional scaling was impactful for many fields. Kruskal shed light on the formaltion of minimum-spanning tree, which can be applied to all kinds of optimization problems we see in daily lives. 
